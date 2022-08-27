@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "10076071719",
+    "project_id": "wb-marriage",
+    "storage_bucket": "wb-marriage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10076071719:android:c6a7d106e4896a12df6b02",
+        "android_client_info": {
+          "package_name": "com.example.wb_marriage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10076071719-5r8l5l99e77jbg4sonrd00mrsqkhv9ra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy9zqrGqMGSZtj0H3HSZQCFOZ0ZCvvzSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10076071719-5r8l5l99e77jbg4sonrd00mrsqkhv9ra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
